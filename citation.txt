@@ -1,0 +1,9 @@
+@article{REPO-388,
+    author = "Liu, Yilin and Cui, Ruiqi and Xie, Ke and Gong, Minglun and Huang, Hui",
+    journal = "ACM Trans. Graph.",
+    number = "6",
+    numpages = "16",
+    title = "{Aerial Path Planning for Online Real-Time Exploration and Offline High-Quality Reconstruction of Large-Scale Urban Scenes}",
+    volume = "40",
+    year = "2021"
+}
