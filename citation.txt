@@ -1,4 +1,4 @@
-@article{REPO-388,
+@article{REPO-387,
     author = "Liu, Yilin and Cui, Ruiqi and Xie, Ke and Gong, Minglun and Huang, Hui",
     journal = "ACM Trans. Graph.",
     number = "6",
